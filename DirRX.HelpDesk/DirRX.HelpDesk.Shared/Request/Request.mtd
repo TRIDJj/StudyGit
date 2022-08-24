@@ -27,7 +27,8 @@
         {
           "$type": "Sungero.Metadata.ControlGroupMetadata, Sungero.Metadata",
           "NameGuid": "e8583b20-9282-41f8-a181-23a0f1c7a2d0",
-          "Name": "ControlGroup"
+          "Name": "ControlGroup",
+          "SharedNestedGroupsAlignment": true
         },
         {
           "$type": "Sungero.Metadata.ControlMetadata, Sungero.Metadata",
@@ -93,6 +94,17 @@
           "RowNumber": 4,
           "RowSpan": 1,
           "Settings": []
+        },
+        {
+          "$type": "Sungero.Metadata.ControlGroupMetadata, Sungero.Metadata",
+          "NameGuid": "3194c26e-7ea4-4935-9e86-f0862e4e3281",
+          "Name": "ControlGroup",
+          "ColumnNumber": 0,
+          "ColumnSpan": 1,
+          "ParentGuid": "e8583b20-9282-41f8-a181-23a0f1c7a2d0",
+          "RowNumber": 5,
+          "RowSpan": 1,
+          "SharedNestedGroupsAlignment": true
         }
       ]
     }
